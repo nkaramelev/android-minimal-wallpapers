@@ -1,133 +1,133 @@
 ### afterglow
-![Afterglow](../wallpapers/afterglow.png)
+![Afterglow](../Wallpapers/afterglow.png)
 
 ---
 ### argonaut
-![Argonaut](../wallpapers/argonaut.png)
+![Argonaut](../Wallpapers/argonaut.png)
 
 ---
 ### ayu-dark
-![Ayu dark](../wallpapers/ayu-dark.png)
+![Ayu dark](../Wallpapers/ayu-dark.png)
 
 ---
 ### ayu-mirage
-![Ayu mirage](../wallpapers/ayu-mirage.png)
+![Ayu mirage](../Wallpapers/ayu-mirage.png)
 
 ---
 ### base16-default-dark
-![Base16 default dark](../wallpapers/base16-default-dark.png)
+![Base16 default dark](../Wallpapers/base16-default-dark.png)
 
 ---
 ### blood-moon
-![Blood moon](../wallpapers/blood-moon.png)
+![Blood moon](../Wallpapers/blood-moon.png)
 
 ---
 ### bluescreen
-![Bluescreen](../wallpapers/bluescreen.png)
+![Bluescreen](../Wallpapers/bluescreen.png)
 
 ---
 ### breeze
-![Breeze](../wallpapers/breeze.png)
+![Breeze](../Wallpapers/breeze.png)
 
 ---
 ### campbell
-![Campbell](../wallpapers/campbell.png)
+![Campbell](../Wallpapers/campbell.png)
 
 ---
 ### cobalt-2
-![Cobalt 2](../wallpapers/cobalt-2.png)
+![Cobalt 2](../Wallpapers/cobalt-2.png)
 
 ---
 ### dark-grey
-![Dark grey](../wallpapers/dark-grey.png)
+![Dark grey](../Wallpapers/dark-grey.png)
 
 ### darkside
-![Darkside](../wallpapers/darkside.png)
+![Darkside](../Wallpapers/darkside.png)
 
 ---
 ### darktooth
-![Darktooth](../wallpapers/darktooth.png)
+![Darktooth](../Wallpapers/darktooth.png)
 
 ---
 ### dracula
-![Dracula](../wallpapers/dracula.png)
+![Dracula](../Wallpapers/dracula.png)
 
 ---
 ### gnome-dark
-![Gnome dark](../wallpapers/gnome-dark.png)
+![Gnome dark](../Wallpapers/gnome-dark.png)
 
 ---
 ### greenscreen
-![Greenscreen](../wallpapers/greenscreen.png)
+![Greenscreen](../Wallpapers/greenscreen.png)
 
 ---
 ### gruvbox-dark
-![Gruvbox dark](../wallpapers/gruvbox-dark.png)
+![Gruvbox dark](../Wallpapers/gruvbox-dark.png)
 
 ---
 ### gruvbox-light
-![Gruvbox light](../wallpapers/gruvbox-light.png)
+![Gruvbox light](../Wallpapers/gruvbox-light.png)
 
 ---
 ### hybrid
-![Hybrid](../wallpapers/hybrid.png)
+![Hybrid](../Wallpapers/hybrid.png)
 
 ---
 ### hyber
-![Hyper](../wallpapers/hyper.png)
+![Hyper](../Wallpapers/hyper.png)
 
 ---
 ### iceberg-dark
-![Iceberg dark](../wallpapers/iceberg-dark.png)
+![Iceberg dark](../Wallpapers/iceberg-dark.png)
 
 ---
 ### iceberg-light
-![Iceberg light](../wallpapers/iceberg-light.png)
+![Iceberg light](../Wallpapers/iceberg-light.png)
 
 ---
 ### ir-black
-![Ir black](../wallpapers/ir-black.png)
+![Ir black](../Wallpapers/ir-black.png)
 
 ---
 ### iterm-default
-![Iterm Default](../wallpapers/iterm-default.png)
+![Iterm Default](../Wallpapers/iterm-default.png)
 
 ---
 ### jellybeans
-![Jellybeans](../wallpapers/jellybeans.png)
+![Jellybeans](../Wallpapers/jellybeans.png)
 
 ---
 ### kitty
-![Kitty](../wallpapers/kitty.png)
+![Kitty](../Wallpapers/kitty.png)
 
 ---
 ### material-darker
-![Material Darker](../wallpapers/material-darker.png)
+![Material Darker](../Wallpapers/material-darker.png)
 
 ---
 ### material-ocean
-![Material ocean](../wallpapers/material-ocean.png)
+![Material ocean](../Wallpapers/material-ocean.png)
 
 ---
 ### monokay
-![Monokay](../wallpapers/monokay.png)
+![Monokay](../Wallpapers/monokay.png)
 
 ---
 ### nord
-![Nord](../wallpapers/nord.png)
+![Nord](../Wallpapers/nord.png)
 
 ---
 ### nord-wave
-![Nord Wave](../wallpapers/nord-wave.png)
+![Nord Wave](../Wallpapers/nord-wave.png)
 
 ---
 ### onedark
-![Onedark](../wallpapers/onedark.png)
+![Onedark](../Wallpapers/onedark.png)
 
 ---
 ### rosepine
-![Rosepine](../wallpapers/rosepine.png)
+![Rosepine](../Wallpapers/rosepine.png)
 
 ---
 ### greeny
-![Greeny](../wallpapers/greeny.png)
+![Greeny](../Wallpapers/greeny.png)
