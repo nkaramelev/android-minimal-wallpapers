@@ -1,5 +1,5 @@
 # Android minimal wallpapers
-![Greeny](../Wallpapers/greeny.png)
+![Onedark](../Wallpapers/onedark.png)
 ---
 ### You can check out the wallpapers [here](/misc/WPShowcase.md)
 ---
