@@ -1,7 +1,7 @@
 # Android minimal wallpapers
 **Here are few of them:**
 
-<img src="/Wallpapers/onedark.png" width="100" height="200"> <img src="/Wallpapers/greeny.png" width="100" height="200"> <img src="/Wallpapers/afterglow.png" width="100" height="200">
+<img src="/Wallpapers/onedark.png" width="200" height="400"> <img src="/Wallpapers/greeny.png" width="200" height="400"> <img src="/Wallpapers/afterglow.png" width="200" height="400">
 
 ### You can check out the rest of the wallpapers [here](/misc/WPShowcase.md)
 ---
